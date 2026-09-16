@@ -1,5 +1,22 @@
 ADO Management
 
+ADO Management is a company operating in two lines of business: web design and site generation, and property management.
+
+Web Design/Generator:
+Building and generating websites for clients, streamlining the design-to-launch process.
+
+Property Management:
+Managing rental/property operations, tenant and listing workflows.
+
+Tech Stack:
+TBD, update as the project takes shape.
+
+Status:
+Early planning stage, no code yet. This repo currently holds the project vision, implementation coming soon.
+
+Author: David Oladimejij, IT student at Towson University.
+ADO Management
+
 A management platform to help students track, submit, and stay on top of their Accessibility and Disability Services (ADS/ADO) accommodations, semester requests, professor notifications, and renewal deadlines, all in one place.
 
 Why:
